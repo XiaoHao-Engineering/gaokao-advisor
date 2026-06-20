@@ -4,7 +4,7 @@
 <img src=https://img.shields.io/badge/省份-26-4CAF50?style=flat-square>
 <img src=https://img.shields.io/badge/专科-105-FF9800?style=flat-square>
 <img src=https://img.shields.io/badge/宿舍-已收录-E91E63?style=flat-square>
-<br><h1>河北高考志愿助手</h1>
+<br><h1>河北河北高考志愿助手</h1>
 <p><b>输入分数 自动匹配  含宿舍查询  文理双轨  专本兼顾</b></p><br>
 <a href=https://xiaohao-engineering.github.io/gaokao-advisor/><img src=https://img.shields.io/badge/在线体验-2ea44f?style=for-the-badge></a><br><br></div>
 ---
